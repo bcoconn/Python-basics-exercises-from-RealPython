@@ -4,7 +4,7 @@
 
 # Exercise 1
 # The following line won't run because of a syntax error
-print("hi)
+print("Hi Barb, Tom, Faheem, Natalie, and everyone else!")
 
 # We didn't close the double quotes at the end of the string.
 # The line above needed to have been:
@@ -12,6 +12,9 @@ print("hi)
 
 
 # Exercise 2
+
+hello = "Hi Barb, Tom, Faheem, Natalie, Quentin, Ralph and everyone else!"
+
 ''' The following lines won't run properly,
     even if the syntax error in the line above is corrected,
     because of a run-time error '''

@@ -1,7 +1,6 @@
 # 4.6 - Working with Strings and Numbers
 # Solutions to review exercies
 
-
 # Exercise 1
 # Store an integer as a string
 my_integer_string = "6"
