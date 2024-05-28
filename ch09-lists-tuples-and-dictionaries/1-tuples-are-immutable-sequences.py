@@ -20,6 +20,9 @@ position1, position2, position3, position4, position5, position6 = cardinal_numb
 print(position1)
 print(position2)
 print(position3)
+print(position4)
+print(position5)
+print(position6)
 
 # Exercise 4
 # Create a tuple containing the letters of your name from a string
